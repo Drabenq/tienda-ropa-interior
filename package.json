@@ -1,0 +1,10 @@
+{
+  "name": "tienda-ropa-interior",
+  "version": "1.0.0",
+  "description": "Catálogo online que se actualiza desde Google Sheets y recibe pedidos por WhatsApp.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
